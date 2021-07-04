@@ -29,9 +29,7 @@
 <img width=40 px align="left" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"/>
 <img width=40 px align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
-
-<br>
-</br>
+<br />
 
 ## Connect With Me:
 <a href="https://www.linkedin.com/in/abhirup-datta-1a85661b5/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Abhirup" width="50px"/></a>
