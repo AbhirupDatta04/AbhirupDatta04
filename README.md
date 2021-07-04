@@ -27,7 +27,19 @@
 <img width=40 px align="left" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"/>
 <img width=40 px align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
-<br />
+</br>
+</br>
+
 
 ## Connect With Me:
 <a href="https://www.linkedin.com/in/abhirup-datta-1a85661b5/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Abhirup" width="50px"/></a>
+</br>
+</br>
+</br>
+
+## Statistics:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhirupDatta04&show_icons=true&theme=tokyonight" alt="Abhirup's Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupDatta04&langs_count=8&border_radius=10px&theme=tokyonight&hide=jupyter%20notebook&layout=compact&exclude_repo=github-readme-stats,AbhirupDatta04.github.io" alt="Abhirup's Stats" />
+
+
+
