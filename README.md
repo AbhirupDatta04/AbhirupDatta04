@@ -3,11 +3,11 @@
 <!--
 **AbhirupDatta04/AbhirupDatta04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## I am a Student,Deep learning and IOT enthusiast and an avid Sports lover! 
-- 🔭 I’m currently working on small projects everyday 
-- 🌱 I’m currently learning Deep learning,OpenCV and Image processing in Robotics
-- 👯 I’m looking to collaborate on Robotics and Automation processes
-- 🤔 I’m looking for help with Deep learning,Web development
+## I am a Developer,IOT enthusiast and an avid Sports lover! 
+- 🔭 I’m currently working on small projects  
+- 🌱 I’m currently learning Frontend frameworks
+- 👯 I’m looking to collaborate on Full stack web applications
+- 🤔 I’m looking for help with Backend development
 - 💬 Ask me about anything
 - 📫 How to reach me: via LinkedIn
 
