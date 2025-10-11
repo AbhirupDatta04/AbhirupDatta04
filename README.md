@@ -21,9 +21,10 @@ I love building real-world applications, exploring data, and learning scalable b
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> &nbsp;
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> &nbsp;
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/> &nbsp;
-<img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"/> &nbsp;
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/> &nbsp;
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-ui/material-ui.png"/> &nbsp;
+<img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/> &nbsp;
+<img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/> &nbsp;
 
 ### Backend
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> &nbsp;
