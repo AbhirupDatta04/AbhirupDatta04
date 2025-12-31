@@ -1,17 +1,19 @@
 ### Hi there, I’m Abhirup 👋
 
-I am a **Full-Stack Developer & Data Enthusiast** with expertise in **frontend, backend, and analytics projects**.  
-I love building real-world applications, exploring data, and learning scalable backend architectures.
+I’m a **Software Engineer** who enjoys building **data-driven, system-oriented applications** end to end — from backend logic and data processing to clean, usable interfaces.
+
+Most of my work revolves around projects that simulate **real-world enterprise systems**: handling transactions, aggregations, analytics, and business rules, while exposing them through well-structured APIs and dashboards.
 
 ---
 
-## 🔭 Currently Working On
-- Enterprise-level backend projects using **Spring Boot + Java + PostgreSQL**  
-- Full-stack integration with **React.js frontend**  
-- Analytics & ML projects in **Python** (data analysis, visualization, predictive models)  
-- Learning **Microservices**, **Docker**, and **Cloud deployment**  
 
----
+## 🔭 What I’m Working On
+- Designing and building **end-to-end projects** inspired by enterprise and banking systems
+- Frontend development with **React, Next.js, Redux, Tailwind CSS, and Material UI**
+- Backend services using **Python (FastAPI)** and relational databases
+- Data-focused workflows involving **SQL-based analytics, reporting, and transformations**
+- Exploring system concepts like **batch processing, event-driven flows, and backend architecture**
+
 
 ## 🌱 Skills & Tech Stack
 
