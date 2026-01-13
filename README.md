@@ -65,6 +65,6 @@ Most of my work revolves around projects that simulate **real-world enterprise s
 
 ---
 
-## 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhirupDatta04&show_icons=true&theme=tokyonight" alt="Abhirup's Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupDatta04&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact" alt="Top Languages" />
+<!--## 📊 GitHub Stats
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhirupDatta04&show_icons=true&theme=tokyonight" alt="Abhirup's Stats" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupDatta04&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact" alt="Top Languages" /> -->
