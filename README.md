@@ -11,7 +11,7 @@ Most of my work revolves around projects that simulate **real-world enterprise s
 - Designing and building **end-to-end projects** inspired by enterprise and banking systems
 - Frontend development with **React, Next.js, Redux, Tailwind CSS, and Material UI**
 - Backend services using **Python (FastAPI)** and relational databases
-- Data-focused workflows involving **SQL-based analytics, reporting, and transformations**
+- Data-focused workflows involving **SQL-based analytics, reporting, and transformations with Python and Pyspark**
 - Exploring system concepts like **batch processing, event-driven flows, and backend architecture**
 
 
