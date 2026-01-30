@@ -55,7 +55,7 @@ Most of my work revolves around projects that simulate **real-world enterprise s
 
 ### 💬 About Me
 
-• Software engineer with ~2 years of experience working on data-driven applications  
+• Software engineer with 2 years of experience working on data-driven applications  
 • Strong in SQL and analytical problem solving, with experience translating business questions into insights  
 • Background in building application layers that consume and present data from backend systems  
 • Comfortable working across the stack, with frontend experience primarily used to support data workflows and internal tools  
