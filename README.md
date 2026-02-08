@@ -33,8 +33,6 @@ Most of my work revolves around projects that simulate **real-world enterprise s
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> &nbsp;
 <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/> &nbsp;
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> &nbsp;
-<img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> &nbsp;
-<img width=40px src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/> &nbsp;
 
 ### Data Analysis & Machine Learning
 <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> &nbsp;
