@@ -8,7 +8,7 @@ Most of my work revolves around projects that simulate **real-world enterprise s
 
 
 ## 🔭 What I’m Working On
-- Designing and building **end-to-end projects** inspired by enterprise and banking systems
+- Designing and building high grade **end-to-end projects** inspired by enterprise and banking systems
 - Frontend development with **React, Next.js, Redux, Tailwind CSS, and Material UI**
 - Backend services using **Python (FastAPI)** and relational databases
 - Data-focused workflows involving **SQL-based analytics, reporting, and transformations with Python and Pyspark**
