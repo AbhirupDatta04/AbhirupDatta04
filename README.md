@@ -1,6 +1,6 @@
 ### Hi there, I’m Abhirup 👋
 
-I’m a **Software Engineer** who enjoys building **data-driven, system-oriented applications** end to end — from backend logic and data processing to clean, usable interfaces.
+I’m a **Software Engineer** with 2+ years of experience who enjoys building **data-driven, system-oriented applications** end to end — from backend logic and data processing to clean, usable interfaces.
 
 Most of my work revolves around projects that simulate **real-world enterprise systems**: handling transactions, aggregations, analytics, and business rules, while exposing them through well-structured APIs and dashboards.
 
